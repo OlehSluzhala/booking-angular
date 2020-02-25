@@ -7,7 +7,7 @@ The main aim of the project is to make it possible for fishermen to book their f
   Connected front-end with back-end using CORS.
 
 ## Details:
-  - **Customer:** SoftServe
+  - **Customer:** SoftServe (ITA)
   - **Involvement Duration:** 3 month
   - **Project team size:** team of eight members
   - **Development Methodology:** Agile/Scrum
@@ -29,7 +29,8 @@ The main aim of the project is to make it possible for fishermen to book their f
   - **Liliia Bekirova** - https://www.linkedin.com/in/liliia-bekirova-b885991a1/
 
 ## Instructions:
-> npm i
+> npm i 
+<br>
 > ng s
 
 
