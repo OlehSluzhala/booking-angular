@@ -30,7 +30,7 @@ The main aim of the project is to make it possible for fishermen to book their f
 
 ## Instructions:
 > npm i 
-<br>
+<br/>
 > ng s
 
 
