@@ -30,7 +30,7 @@ The main aim of the project is to make it possible for fishermen to book their f
 
 ## Instructions:
 First, execute this command installs a package, and any packages that it depends on
-> npm i 
+> npm i <
 Next is Builds and serves your app, rebuilding on file changes
 > ng s
 To compile an Angular application into a source directory named dist / in the specified source path.
