@@ -29,10 +29,12 @@ The main aim of the project is to make it possible for fishermen to book their f
   - **Liliia Bekirova** - https://www.linkedin.com/in/liliia-bekirova-b885991a1/
 
 ## Instructions:
+First, execute this command installs a package, and any packages that it depends on
 > npm i 
-<br/>
+Next is Builds and serves your app, rebuilding on file changes
 > ng s
-
+To compile an Angular application into a source directory named dist / in the specified source path.
+> ng build --prod
 
   
   
